@@ -1,0 +1,7 @@
+{
+  "name": "centro-inteligencia-ninja",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
